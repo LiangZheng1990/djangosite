@@ -1,0 +1,11 @@
+.main{
+    text-align: center; /*让div内部文字居中*/
+    background-color: #fff;
+    border-radius: 20px;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    position: absolute;
+    left: 30;
+    right: 30;
+}
